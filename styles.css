@@ -4,3 +4,17 @@
 #title{
     text-align: center;
 }
+img{
+    display: block;
+}
+.practical{
+    margin: 0 auto;
+    width: 90vw;
+}
+a{
+    display: block;
+    text-decoration: none;
+}
+a:hover{
+    color: orange;
+}
